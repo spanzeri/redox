@@ -22,9 +22,6 @@
       "resync": true
     }
   },
-  "split":{
-    "enabled": true
-  },
   "layouts": {
     "LAYOUT": {
       "layout": [
