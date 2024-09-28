@@ -10,7 +10,7 @@ The difference compared to the original build and instructions are:
 
 # Getting started
 
-Follow the qmk setup for your OS: https://beta.docs.qmk.fm/tutorial/newbs_getting_started
+Follow the qmk setup for your OS: [https://docs.qmk.fm/newbs_getting_started](qmk:news_gettings_started)
 
 Replace the redox directory with this one.
 
